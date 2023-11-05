@@ -1,4 +1,20 @@
 ### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewpont" content= "width=device-width, initial-scale=1.0">
+  <link rel= "stylesheet" href="style.css">
+  <title> HOLA! I'M IBI</title>
+</head>
+
+
+
+
+
+
+
+
 
 <!--
 **Ibitolapatrick/Ibitolapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
