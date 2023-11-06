@@ -1,32 +1,3 @@
-### Hi there 👋
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewpont" content= "width=device-width, initial-scale=1.0">
-  <link rel= "stylesheet" href="style.css">
-  <title> HOLA! I'M IBI</title>
-</head>
-
-
-
-
-
-
-
-
-
-<!--
-**Ibitolapatrick/Ibitolapatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hola! I'm Ibi🫶🏾
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ibitolapatrick&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibitolapatrick)](https://github.com/anuraghazra/github-readme-stats)
