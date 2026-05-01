@@ -1,15 +1,15 @@
 # █▓▒▒░░░Hi! I'm Ibi👋🏾░░░▒▒▓█
 
-<h3 align="center">𝕀 𝕒𝕞 𝕒 𝕡𝕒𝕤𝕤𝕚𝕠𝕟𝕒𝕥𝕖 𝕦𝕡𝕔𝕠𝕞𝕚𝕟𝕘 𝕤𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕨𝕙𝕠𝕤𝕖 𝕡𝕒𝕤𝕤𝕚𝕠𝕟 𝕗𝕠𝕣 𝕔𝕠𝕕𝕚𝕟𝕘 𝕞𝕠𝕧𝕖𝕕 𝕙𝕖𝕣 𝕥𝕠 𝕓𝕣𝕖𝕒𝕜 𝕚𝕟𝕥𝕠 𝕥𝕖𝕔𝕙.</h3>
+<h3 align="center">I am a passionate aspiring software developer whose passion for coding moved her to break into tech.</h3>
 <img align="right" alt="Coding" width="200" src="https://cdn-media-1.freecodecamp.org/code-radio/Saron3.gif">
 
-- 🕮𝕀 𝕛𝕦𝕤𝕥 𝕗𝕚𝕟𝕚𝕤𝕙𝕖𝕕 𝕨𝕠𝕣𝕜𝕚𝕟𝕘 𝕠𝕟 𝕒 𝕡𝕣𝕠𝕛𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕒 𝕔𝕝𝕚𝕖𝕟𝕥 𝕗𝕣𝕠𝕞 𝕀𝔹𝕄 𝕒𝕟𝕕 𝕀'𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕓𝕦𝕚𝕝𝕕𝕚𝕟𝕘 𝕞𝕠𝕣𝕖 𝕡𝕣𝕠𝕛𝕖𝕔𝕥𝕤, 𝕨𝕙𝕖𝕣𝕖 𝕀 𝕔𝕒𝕟 𝕚𝕞𝕡𝕝𝕖𝕞𝕖𝕟𝕥 𝕞𝕪 𝕜𝕟𝕠𝕨𝕝𝕖𝕕𝕘𝕖 𝕠𝕗 **𝔸ℙ𝕀𝕤, ℝ𝕖𝕒𝕔𝕥 𝕒𝕟𝕕 𝕠𝕥𝕙𝕖𝕣𝕤**.
+- 🕮 Most recently I built **Release**, a full-stack blogging app using **Node.js, Express and EJS** — my first end-to-end web project. I also collaborated on a IBM client project under NDA as part of a Skills City bootcamp.
 
-- 📄 𝕀’𝕞 𝕔𝕦𝕣𝕣𝕖𝕟𝕥𝕝𝕪 𝕝𝕠𝕠𝕜𝕚𝕟𝕘 𝕗𝕠𝕣 𝕒𝕟 𝕒𝕡𝕡𝕣𝕖𝕟𝕥𝕚𝕔𝕖𝕤𝕙𝕚𝕡, 𝕚𝕟𝕥𝕖𝕣𝕟𝕤𝕙𝕚𝕡 𝕠𝕣 𝕒𝕟 𝕖𝕟𝕥𝕣𝕪 𝕝𝕖𝕧𝕖𝕝 𝕛𝕠𝕓 **𝕒𝕤 𝕒 𝕤𝕠𝕗𝕥𝕨𝕒𝕣𝕖 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣.** Y𝕠𝕦 𝕔𝕒𝕟 𝕜𝕟𝕠𝕨 𝕞𝕠𝕣𝕖 𝕒𝕓𝕠𝕦𝕥 𝕞𝕪 𝕖𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖 𝕚𝕟 𝕞𝕪 𝕝𝕚𝕟𝕜𝕖𝕕𝕚𝕟 [𝕙𝕥𝕥𝕡𝕤://𝕨𝕨𝕨.𝕝𝕚𝕟𝕜𝕖𝕕𝕚𝕟.𝕔𝕠𝕞/𝕚𝕟/𝕜-𝕚𝕓𝕚𝕥𝕠𝕝𝕒-𝕡𝕒𝕥𝕣𝕚𝕔𝕜-1268𝕒923𝕓/](https://www.linkedin.com/in/k-ibitola-patrick-1268a923b/)
+- 📄I'm currently looking for an apprenticeship, internship or an entry level job **as a software developer**. You can know more about me in my linkedin [Linkedin](https://www.linkedin.com/in/k-ibitola-patrick-1268a923b/)
 
-- 📫 𝕋𝕙𝕚𝕤 𝕚𝕤 𝕙𝕠𝕨 𝕥𝕠 𝕣𝕖𝕒𝕔𝕙 𝕞𝕖: **ibipatrick15@gmail.com** !
+- 📫 This is how to reach me: **ibipatrick15@gmail.com** !
 
-- ❤️💛❤️ 𝔽𝕦𝕟 𝕗𝕒𝕔𝕥 **𝕀 𝕨𝕒𝕤 𝕓𝕠𝕣𝕟 𝕒𝕟𝕕 𝕣𝕒𝕚𝕤𝕖𝕕 𝕚𝕟 S𝕡𝕒𝕚𝕟. 𝕀 𝕞𝕠𝕧𝕖𝕕 5 𝕪𝕖𝕒𝕣𝕤 𝕒𝕘𝕠 𝕥𝕠 𝕥𝕙𝕖 𝕌𝕂 𝕥𝕠 𝕡𝕦𝕣𝕤𝕦𝕖 𝕞𝕪 𝕕𝕣𝕖𝕒𝕞𝕤.**
+- ❤️💛❤️ Fun fact! **I was born and raised in Spain. I moved to the UK 5 years ago to pursue my dreams!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
