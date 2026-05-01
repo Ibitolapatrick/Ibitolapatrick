@@ -5,7 +5,7 @@
 
 - 🕮 Most recently I built **Release**, a full-stack blogging app using **Node.js, Express and EJS** — my first end-to-end web project. I also collaborated on a IBM client project under NDA as part of a Skills City bootcamp.
 
-- 📄I'm currently looking for an apprenticeship, internship or an entry level job **as a software developer**. You can know more about me in my linkedin [Linkedin](https://www.linkedin.com/in/k-ibitola-patrick-1268a923b/)
+- 📄I'm currently looking for an apprenticeship, internship or an entry level job **as a software developer**. You can know more about me in my linkedIn: [Ibi's LinkedIn](https://www.linkedin.com/in/k-ibitola-patrick-1268a923b/)
 
 - 📫 This is how to reach me: **ibipatrick15@gmail.com** !
 
